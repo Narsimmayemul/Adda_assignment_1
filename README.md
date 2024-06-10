@@ -1,7 +1,3 @@
-To create a GitHub README file explaining the BookingSystem class and its usage, you can structure it as follows:
-
----
-
 # Booking System
 
 This JavaScript class `BookingSystem` manages bookings for facilities like Clubhouse and Tennis Court, calculating booking availability and charges based on time slots.
